@@ -1,0 +1,15 @@
+{
+  "name": "impresoraepson",
+  "version": "1.0.0",
+  "description": "Impresion en la epson tmu 220",
+  "main": "index.js",
+  "dependencies": {
+    "escpos": "^2.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Carlos Vallejos",
+  "license": "MIT"
+}
